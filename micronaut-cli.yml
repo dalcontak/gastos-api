@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: gastos.api
+---
+testFramework: junit
+sourceLanguage: java
